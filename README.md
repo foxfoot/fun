@@ -1,2 +1,2 @@
 # fun
-test fun node.js code
+# test funny node.js code
